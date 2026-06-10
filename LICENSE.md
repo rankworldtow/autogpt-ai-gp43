@@ -1,4 +1,4 @@
-# 
+# VIP AutoGPT extensions. Featuring community-support and enterprise-ready — optimized for maximum performance and efficiency.
 
 
 
